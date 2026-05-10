@@ -1,1 +1,6 @@
 .env
+bin/
+tmp/
+vendor/
+*.exe
+*.out
