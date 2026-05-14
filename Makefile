@@ -6,3 +6,4 @@ db_create_migration:
 
 db_run_migrations:
 	migrate -database ${DB_URL} -path migrations up
+
